@@ -1,0 +1,48 @@
+.sadrzaj{
+    background-color:#000000;
+    color: white;
+    font-family: "Helvetica, sans-serif";
+    font-size: 300px;
+    float: left;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}   
+
+
+
+div.disl {
+    font-family: "Helvetica, sans-serif";
+    line-height: 200%;
+    font-size: 30px;
+    color:white;
+}
+
+.footer {
+
+    height: 100px;
+    background-color:#000000;
+    background-image:none;
+    bottom: 0; 
+}
+
+header {
+    height: 300px;
+    background-image: none;
+
+    background-color:#000000;
+}
+li{
+    color:white;
+}
+h1{
+    color:white;
+}
+
+meni{
+    color:white;
+}
+body{
+    background-color: #ffffff;
+}
